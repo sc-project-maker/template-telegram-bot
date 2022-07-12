@@ -1,0 +1,11 @@
+{
+    "type": "template",
+    "name": "Telegram Bot Project Template",
+    "version": "1.0",
+    "technologies": [
+        "TypeScript",
+        "Prettier",
+        "EsLint",
+        "StyleLint"
+    ]
+}
